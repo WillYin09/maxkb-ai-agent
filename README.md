@@ -13,7 +13,7 @@ MaxKB 是一个支持知识库问答的企业级 AI 助手平台。它通过 RAG
 - ✅ 在本地环境完整部署后端服务与前端界面
 - ✅ 熟悉向量检索流程、Embedding 与文档管理
 - ✅ 理解了 Prompt 设计在不同场景下的作用
-- ✅ 使用 OpenAI API 接入问答模块
+- ✅ 使用 Together.ai 模仿OpenAI接口，接入问答模块
 - ✅ 使用 Docker 实现异步任务队列
 
 ---
@@ -40,11 +40,13 @@ MaxKB 是一个支持知识库问答的企业级 AI 助手平台。它通过 RAG
 
 ### 📚 知识库配置界面
 
-![知识库页面](./screenshots/knowledge.png)
+![image](https://github.com/user-attachments/assets/b8701ed2-aa9d-4ec6-bc10-7ee190032f70)
+
 
 ### 🤖 AI Agent 配置与问答测试
 
-![应用配置](./screenshots/agent_config.png)
+![image](https://github.com/user-attachments/assets/8c2c3d8c-c56c-4716-949a-fa7e5905bf97)
+
 
 > 提示：截图来源于本地部署后的实际运行界面，所有页面可在 `localhost:3000` 访问。
 
