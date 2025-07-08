@@ -1,6 +1,6 @@
 # MaxKB-AI-Agent 项目复刻与实战演练
 
-该项目基于开源仓库 [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) 实现，本地部署并深入理解了其核心架构与业务逻辑。**本项目作为个人学习 AI Agent 结构与 RAG 架构的实战演练用途，非原创商用项目。**
+该项目基于开源仓库 [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) 实现，本人完成了本地部署，并深入理解了其核心架构与业务逻辑。**本项目作为个人学习 AI Agent 结构与 RAG 架构的实战演练用途，非原创商用项目。**
 
 ---
 
@@ -14,7 +14,7 @@ MaxKB 是一个支持知识库问答的企业级 AI 助手平台。它通过 RAG
 - ✅ 熟悉向量检索流程、Embedding 与文档管理
 - ✅ 理解了 Prompt 设计在不同场景下的作用
 - ✅ 使用 OpenAI API 接入问答模块
-- ✅ 使用 Docker + Celery 实现异步任务队列
+- ✅ 使用 Docker 实现异步任务队列
 
 ---
 
